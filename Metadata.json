@@ -1,0 +1,20 @@
+{
+    "Author": "Nina Li",
+    "ContentSize": 4096,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/List-Deleted-Runbooks/main/listDeletedRunbook.ps1",
+    "DownloadCount": 0,
+    "Id": "azureautomation/List-Deleted-Runbooks",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 4,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2023-12-14T07:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell script is designed to list deleted runbooks in an Azure Automation account.",
+    "Title": "List Deleted Automation Runbook",
+    "UpdatedDate": "2023-12-14T07:04:00",
+    "Url": "https://github.com/azureautomation/List-Deleted-Runbooks",
+    "UserTags": "Powershell, Azure Automation"
+}
