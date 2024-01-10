@@ -96,7 +96,8 @@ Write-Output "Below are deleted runbook names under automation account $automati
 foreach ($runbookName in $allDeletedRunbooks) {
     
     if ($allDeletedRunbooks.Count -gt 0) {
-        Write-Output $runbookName
+        $runbook = $runbookName.name
+        Write-Output $runbook
     } else {
         Write-Error "Cannot find any runbook in the deleted runbooks. Runbooks deleted within 30 days can be restored only."
     }
